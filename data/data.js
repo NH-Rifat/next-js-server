@@ -10,6 +10,7 @@ export const dealsProduct = [
     category:'fruits',
     preSubCategory:'green fruits',
     subCategory:'fresh fruits',
+    numOfCartProduct:1
   },
   {
     id: 2,
@@ -22,6 +23,7 @@ export const dealsProduct = [
     category:'fruits',
     preSubCategory:'green fruits',
     subCategory:'fresh fruits',
+    numOfCartProduct:1
   },
   {
     id: 3,
@@ -34,6 +36,7 @@ export const dealsProduct = [
     category:'groceries',
     preSubCategory:'sausce',
     subCategory:'tomatoo sausce',
+    numOfCartProduct:1
   },
   {
     id: 4,
@@ -46,6 +49,7 @@ export const dealsProduct = [
     category:'vegetables',
     preSubCategory:'green vegetables',
     subCategory:'fresh vegetables',
+    numOfCartProduct:1
   },
   {
     id: 5,
@@ -58,6 +62,7 @@ export const dealsProduct = [
     category:'fruits',
     preSubCategory:'green fruits',
     subCategory:'fresh fruits',
+    numOfCartProduct:1
   },
   {
     id: 6,
@@ -70,6 +75,7 @@ export const dealsProduct = [
     category:'fruits',
     preSubCategory:'green fruits',
     subCategory:'fresh fruits',
+    numOfCartProduct:1
   },
   {
     id: 7,
@@ -82,6 +88,7 @@ export const dealsProduct = [
     category:'fruits',
     preSubCategory:'green fruits',
     subCategory:'fresh fruits',
+    numOfCartProduct:1
   },
   {
     id: 8,
@@ -94,6 +101,7 @@ export const dealsProduct = [
     category:'fruits',
     preSubCategory:'green fruits',
     subCategory:'fresh fruits',
+    numOfCartProduct:1
   },
   {
     id: 9,
@@ -106,6 +114,7 @@ export const dealsProduct = [
     category:'fruits',
     preSubCategory:'green fruits',
     subCategory:'fresh fruits',
+    numOfCartProduct:1
   },
   {
     id: 10,
@@ -118,6 +127,7 @@ export const dealsProduct = [
     category:'fruits',
     preSubCategory:'green fruits',
     subCategory:'fresh fruits',
+    numOfCartProduct:1
   },
   
 ];
