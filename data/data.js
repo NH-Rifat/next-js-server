@@ -1,4 +1,4 @@
-export const DealsProduct = [
+export const dealsProduct = [
   {
     id: 1,
     productImg: 'https://i.ibb.co/6bj0DpJ/deal-Product1.png',
