@@ -131,3 +131,138 @@ export const dealsProduct = [
   },
   
 ];
+
+
+export const shopProducts = [
+  {
+    id: 1,
+    productImg: 'https://i.ibb.co/6bj0DpJ/deal-Product1.png',
+    productName: 'Watermelon',
+    currentPrice:250,
+    previousPrice:350,
+    ratings:5,
+    numOfRatings:126,
+    category:'fruits',
+    preSubCategory:'green fruits',
+    subCategory:'fresh fruits',
+    numOfCartProduct:1
+  },
+  {
+    id: 2,
+    productImg: 'https://i.ibb.co/wMrngnP/deal-Product2.png',
+    productName: 'Pineapple',
+    currentPrice:178,
+    previousPrice:274,
+    ratings:5,
+    numOfRatings:124,
+    category:'fruits',
+    preSubCategory:'green fruits',
+    subCategory:'fresh fruits',
+    numOfCartProduct:1
+  },
+  {
+    id: 3,
+    productImg: 'https://i.ibb.co/0rvZx8g/deal-Product3.png',
+    productName: 'Tomatoo Sausce',
+    currentPrice:289,
+    previousPrice:349,
+    ratings:5,
+    numOfRatings:96,
+    category:'groceries',
+    preSubCategory:'sausce',
+    subCategory:'tomatoo sausce',
+    numOfCartProduct:1
+  },
+  {
+    id: 4,
+    productImg: 'https://i.ibb.co/kxb1dbB/deal-Product4.png',
+    productName: 'Capsicum',
+    currentPrice:335,
+    previousPrice:452,
+    ratings:5,
+    numOfRatings:183,
+    category:'vegetables',
+    preSubCategory:'green vegetables',
+    subCategory:'fresh vegetables',
+    numOfCartProduct:1
+  },
+  {
+    id: 5,
+    productImg: 'https://i.ibb.co/1GHh67X/deal-Product5.png',
+    productName: 'Burmese grape',
+    currentPrice:231,
+    previousPrice:456,
+    ratings:5,
+    numOfRatings:123,
+    category:'fruits',
+    preSubCategory:'green fruits',
+    subCategory:'fresh fruits',
+    numOfCartProduct:1
+  },
+  {
+    id: 6,
+    productImg: 'https://i.ibb.co/6bSwqqP/deal-Product6.png',
+    productName: 'Apple',
+    currentPrice:258,
+    previousPrice:369,
+    ratings:5,
+    numOfRatings:147,
+    category:'fruits',
+    preSubCategory:'green fruits',
+    subCategory:'fresh fruits',
+    numOfCartProduct:1
+  },
+  {
+    id: 7,
+    productImg: 'https://i.ibb.co/bXqh4wM/deal-Product7.png',
+    productName: 'Mango',
+    currentPrice:90,
+    previousPrice:125,
+    ratings:5,
+    numOfRatings:151,
+    category:'fruits',
+    preSubCategory:'green fruits',
+    subCategory:'fresh fruits',
+    numOfCartProduct:1
+  },
+  {
+    id: 8,
+    productImg: 'https://i.ibb.co/9YMWPX1/deal-Product8.png',
+    productName: 'Lychee',
+    currentPrice:300,
+    previousPrice:400,
+    ratings:5,
+    numOfRatings:111,
+    category:'fruits',
+    preSubCategory:'green fruits',
+    subCategory:'fresh fruits',
+    numOfCartProduct:1
+  },
+  {
+    id: 9,
+    productImg: 'https://i.ibb.co/N1b8wMC/deal-Product9.png',
+    productName: 'Pomegranate',
+    currentPrice:350,
+    previousPrice:420,
+    ratings:5,
+    numOfRatings:181,
+    category:'fruits',
+    preSubCategory:'green fruits',
+    subCategory:'fresh fruits',
+    numOfCartProduct:1
+  },
+  {
+    id: 10,
+    productImg: 'https://i.ibb.co/TYhk9vY/deal-Product10.png',
+    productName: 'Guava',
+    currentPrice:150,
+    previousPrice:1800,
+    ratings:5,
+    numOfRatings:164,
+    category:'fruits',
+    preSubCategory:'green fruits',
+    subCategory:'fresh fruits',
+    numOfCartProduct:1
+  },
+  
+];
